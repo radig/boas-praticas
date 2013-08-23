@@ -1,0 +1,28 @@
+root = true
+
+; Global
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+[*.php]
+ident_style = space
+ident_size = 4
+
+[*.ctp]
+ident_style = space
+ident_size = 4
+
+[*.html]
+indent_style = space
+indent_size = 4
+
+[*.css]
+indent_style = tab
+indent_size = 2
+
+[*.js]
+indent_style = tab
+indent_size = 2
+
